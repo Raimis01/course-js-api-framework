@@ -32,7 +32,7 @@ export const config = {
         host: 'http://127.0.0.1:7003'
     },
     greetings_prod: {
-        host: 'http://127.0.0.1:7003'
+        host: 'http://127.0.0.1:7004'
     }
 }
 

@@ -28,6 +28,9 @@ export const config = {
     greetings_stg: {
         host: 'http://127.0.0.1:7002'
     },
+    greetings_preprod: {
+        host: 'http://127.0.0.1:7003'
+    },
     greetings_prod: {
         host: 'http://127.0.0.1:7003'
     }
